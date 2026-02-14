@@ -10,7 +10,7 @@ if (!window["Heartlove"]) {
       messages: ["Bông hoa tường Vy 🌸", "Iu tường vy 💕", "6/2 🎉", "988 ngày bên nhau 💑", "2 năm 8 tháng 12 ngày ❤️", "Mãi yêu em 🌹", "Em là cả thế giới của anh 💖"],
       images: [],
       heartColor: "#ff9090",
-      music: "https://docs.google.com/uc?export=download&id=1OCE4Tkmag_g3Xu0-z37QqXYRBzJpuhFN"
+      music: "https://files.catbox.moe/cj3zus.mp3"
     },
   };
 }
