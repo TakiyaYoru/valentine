@@ -635,6 +635,7 @@ function createHeartExplosion(t) {
   mouse.y = (-t["clientY"] / window["innerHeight"]) * 2 + 1;
   raycaster["setFromCamera"](mouse, camera);
   const o = new THREE["Vector3"]();
+  const explosionDistance = 30;
   raycaster["ray"].at(explosionDistance, o);
   const a = new THREE["Group"]();
   const s = makeMat({
